@@ -11,3 +11,6 @@ A simple Telegram bot that **mutes new users if their bio contains suspicious li
 1. Install requirements:
    ```bash
    pip install -r requirements.txt
+# 🤖 Bio Mute Bot
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yourusername/bio-mute-bot)
