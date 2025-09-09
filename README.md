@@ -20,6 +20,5 @@ A simple Telegram bot to send DPZ quotes (love, sad, attitude, etc).
 
 ```bash
 pip install -r requirements.txt
-export BOT_TOKEN=7806050785:AAELrqCgHvmW9xPJ-Ufb6sDuPIFSG-bjhSE
-python bot.py
+
 ```
