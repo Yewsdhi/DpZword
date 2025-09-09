@@ -14,3 +14,10 @@ A simple Telegram bot that **mutes new users if their bio contains suspicious li
 # 🤖 Bio Mute Bot
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yourusername/bio-mute-bot)
+
+heroku ps:scale worker=1
+
+git init
+git add .
+git commit -m "Initial commit"
+git push heroku main
