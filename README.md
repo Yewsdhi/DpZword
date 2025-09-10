@@ -18,4 +18,4 @@ A simple Telegram bot that automatically **mutes users who send links** in group
 ---
 ## 🚀 Deploy to Heroku  
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yourusername/BoiMuteLinkBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Yewsdhi/DpZword)
